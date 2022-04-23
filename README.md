@@ -1,3 +1,3 @@
 # RLC
 
-![] (/photos/rlc.png)
+![](/photos/rlc.png)
